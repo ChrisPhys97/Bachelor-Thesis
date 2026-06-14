@@ -1,3 +1,30 @@
-This data visualization is a part of three sensitivity tests conducted by MISU MIT Cloud and Aerosol (MIMICA) LES model for my BSc graduation thesis.
+<h2>Overview</h2>
+<div style="text-align: justify; text-justify: inter-word; font-size: 18px;">
+<p>
+  This repository contains two Jupyter notebooks presenting the results of the
+  <strong>shear-dominant sensitivity experiment</strong> performed with the MISU MIT Cloud and Aerosol (MIMICA) Large Eddy Simulation (LES) model.
+</p>
 
-This project aimed to simulate the Marine Statocumulus Atmospheric Boundary Layer (ABL) using case studies based on on-site data gatherd during the DYCOMS-II campaign off the coast of California (Akerman et all., 2009).
+<p>
+  The first notebook focuses on the analysis and visualization of
+  <strong>coherent turbulent structures</strong>, while the second examines
+  the mean structure of the marine atmospheric boundary layer (ABL) through
+  vertically averaged thermodynamic and turbulence profiles. Both notebooks
+  include a brief discussion of the main results and their physical
+  interpretation.
+</p>
+
+<p>
+  These simulations were carried out as part of my BSc thesis under the
+  supervision of <strong>Assistant Professor Georgia Sotiropoulou</strong>.
+  The study investigates the dynamics of the marine stratocumulus (ABL) under shear-dominated conditions using case studies based on on-site data gatherd during the DYCOMS-II campaign off the coast of California (Akerman et all., 2009).
+</p>
+
+<p>
+  In addition to the shear-dominant experiment presented here, a second
+  sensitivity test was conducted for a
+  <strong>buoyancy-intensified marine stratocumulus ABL</strong>, allowing for
+  a comparison between mechanically and buoyancy-driven turbulence regimes.
+</p>
+
+</div>
