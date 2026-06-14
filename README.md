@@ -17,7 +17,7 @@
 <p>
   These simulations were carried out as part of my BSc thesis under the
   supervision of <strong>Assistant Professor Georgia Sotiropoulou</strong>.
-  The study investigates the dynamics of the marine stratocumulus (ABL) under <strong>shear-dominated conditions</strong> using case studies based on on-site data gatherd during the DYCOMS-II campaign off the coast of California (Akerman et all., 2009).
+  The study investigates the dynamics of the marine stratocumulus (ABL) under shear-dominated conditions using case studies based on on-site data gatherd during the DYCOMS-II campaign off the coast of California (Akerman et all., 2009).
 </p>
 
 <p>
