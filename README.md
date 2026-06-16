@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  For the energy spectrum, the methodology is based on applying a two-dimensional Fast Fourier Transform (FFT) to horizontal slices of the velocity fluctuations.      The resulting two-dimensional energy spectrum is converted into a one-dimensional radial spectrum by averaging over concentric wavenumber shells. The                implementation was validated by comparing the direct variance of the velocity fluctuations with the variance recovered from both the two-dimensional and one-        dimensional spectra, ensuring energy conservation. The dominant turbulent length scale is estimated from the peak wavenumber through
+  For the energy spectrum, the methodology is based on applying a two-dimensional Fast Fourier Transform (FFT) to horizontal slices of the vertical velocity fluctuations. The resulting two-dimensional energy spectrum is converted into a one-dimensional radial spectrum by averaging over concentric wavenumber shells. The implementation was validated by comparing the direct variance of the velocity fluctuations with the variance recovered from both the two-dimensional and one-        dimensional spectra, ensuring energy conservation. The dominant turbulent length scale is estimated from the peak wavenumber through
 
   $L_{\mathrm{peak}}=\frac{2\pi}{k_{\mathrm{peak}}},$
 
